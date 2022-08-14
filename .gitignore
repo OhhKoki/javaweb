@@ -1,7 +1,6 @@
 .DS_Store
 .idea
-*.iml
-.idea
+.iml
 logs
 out
 gen
